@@ -1,2 +1,2 @@
 # hello-github
-This is my first repository, just try to find out how github works.
+This is my first repository, just trying to find out how github works.
